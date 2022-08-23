@@ -41,5 +41,3 @@ Mac                      2 hrs 44 mins       ██████░░░░░�
 
  Last Updated on 11/06/2022 18:42:29 UTC
 <!--END_SECTION:waka-->
-
-<a href="https://opgc.me/#/users/tnlvof" target="_blank"><img src="https://api.opgc.me/githubs/users/tnlvof/tag/?theme=basic" /></a>
